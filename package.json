@@ -18,6 +18,6 @@
   "homepage": "https://github.com/kkangda/node_study#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }
